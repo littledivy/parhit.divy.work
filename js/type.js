@@ -8,16 +8,13 @@ window.addEventListener('load',function () {
       loop: true
   });
 
-  typewriter.typeString('Web <strong>developer</strong> & Software <strong>enthusiast</strong>')
+  typewriter.typeString('A <strong>15 year old</strong> student!')
       .pauseFor(2500)
       .deleteAll()
-      .typeString('A <strong>15 year old</strong> student!')
+      .typeString('Loves music')
       .pauseFor(2500)
       .deleteAll()
-      .typeString('Founder of <a href="https://spruce.Parhit.work">Spruce</a> & <a href="https://intellect.Parhit.work">Intellect</a>')
-      .pauseFor(2500)
-      .deleteAll()
-      .typeString('<strong>Guitarist</strong> & <strong>Gamer</strong>')
+      .typeString('<strong>Guitarist</strong> & <strong>Singer</strong>')
       .pauseFor(2500)
       .deleteAll()
       .typeString('Living in <strong>India</strong>')
