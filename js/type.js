@@ -14,7 +14,7 @@ window.addEventListener('load',function () {
       .typeString('A <strong>15 year old</strong> student!')
       .pauseFor(2500)
       .deleteAll()
-      .typeString('Founder of <a href="https://spruce.divy.work">Spruce</a> & <a href="https://intellect.divy.work">Intellect</a>')
+      .typeString('Founder of <a href="https://spruce.Parhit.work">Spruce</a> & <a href="https://intellect.Parhit.work">Intellect</a>')
       .pauseFor(2500)
       .deleteAll()
       .typeString('<strong>Guitarist</strong> & <strong>Gamer</strong>')
